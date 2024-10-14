@@ -1,1 +1,10 @@
-[]
+{
+    "1": {
+        "first_name": "hussein",
+        "last_name": "shkikel",
+        "birth_date": "25-2-2000",
+        "email": "hussein@gmail.com",
+        "gender": "man",
+        "password": "1234"
+    }
+}
